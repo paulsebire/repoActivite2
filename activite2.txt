@@ -1,1 +1,3 @@
 ce fichier a été édité depuis github
+
+et aussi depuis  ma machine
